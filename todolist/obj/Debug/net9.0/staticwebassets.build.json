@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "4rgH1XKUoi9nVr1BB4RlXYdUStYKAVF+hqPPH8D3D5c=",
+  "Source": "todolist",
+  "BasePath": "_content/todolist",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "todolist\\wwwroot",
+      "Source": "todolist",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\",
+      "BasePath": "_content/todolist",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\4e7t1mrw58-2vaxxifsn4.gz",
+      "SourceId": "todolist",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/todolist",
+      "RelativePath": "index#[.{fingerprint=2vaxxifsn4}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "808rv6tyrl",
+      "Integrity": "SAj28WRNyFlV6PX+qndiDxYdT/5TwcZesW2hTd7zS4I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\faidto51kw-m18tvrbwim.gz",
+      "SourceId": "todolist",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/todolist",
+      "RelativePath": "script#[.{fingerprint=m18tvrbwim}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "knhmbkdyha",
+      "Integrity": "4A2wCd7ml780Gx1Rer0R8A6jR4WfNSlNkAwdxauMtX4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\tk8vofdyfl-v19up7noof.gz",
+      "SourceId": "todolist",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/todolist",
+      "RelativePath": "style#[.{fingerprint=v19up7noof}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xbvrdo157q",
+      "Integrity": "o0s6G6ZjQXSuqR1D0TkO3aeLgo7VrFRJVkJDlr0mKf0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\index.html",
+      "SourceId": "todolist",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\",
+      "BasePath": "_content/todolist",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2vaxxifsn4",
+      "Integrity": "Pu4sWjABLLZPQv3M98VhucsquKwQ3olwbxhBY0rQuYs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\script.js",
+      "SourceId": "todolist",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\",
+      "BasePath": "_content/todolist",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m18tvrbwim",
+      "Integrity": "BrdJl4MnxSjU3HhyMMKmBi6zjYAWN5mjudRAt7iMDIg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\style.css",
+      "SourceId": "todolist",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\",
+      "BasePath": "_content/todolist",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v19up7noof",
+      "Integrity": "rdFKQIWJenKQkIAfR+NR8Tn/puT08I2kFvKLJEJao/k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.2vaxxifsn4.html",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\4e7t1mrw58-2vaxxifsn4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002710027100"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SAj28WRNyFlV6PX+qndiDxYdT/5TwcZesW2hTd7zS4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:22:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Pu4sWjABLLZPQv3M98VhucsquKwQ3olwbxhBY0rQuYs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2vaxxifsn4"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pu4sWjABLLZPQv3M98VhucsquKwQ3olwbxhBY0rQuYs="
+        }
+      ]
+    },
+    {
+      "Route": "index.2vaxxifsn4.html",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pu4sWjABLLZPQv3M98VhucsquKwQ3olwbxhBY0rQuYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:22:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2vaxxifsn4"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pu4sWjABLLZPQv3M98VhucsquKwQ3olwbxhBY0rQuYs="
+        }
+      ]
+    },
+    {
+      "Route": "index.2vaxxifsn4.html.gz",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\4e7t1mrw58-2vaxxifsn4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SAj28WRNyFlV6PX+qndiDxYdT/5TwcZesW2hTd7zS4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:22:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2vaxxifsn4"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SAj28WRNyFlV6PX+qndiDxYdT/5TwcZesW2hTd7zS4I="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\4e7t1mrw58-2vaxxifsn4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002710027100"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SAj28WRNyFlV6PX+qndiDxYdT/5TwcZesW2hTd7zS4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:22:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Pu4sWjABLLZPQv3M98VhucsquKwQ3olwbxhBY0rQuYs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pu4sWjABLLZPQv3M98VhucsquKwQ3olwbxhBY0rQuYs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pu4sWjABLLZPQv3M98VhucsquKwQ3olwbxhBY0rQuYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:22:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pu4sWjABLLZPQv3M98VhucsquKwQ3olwbxhBY0rQuYs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\4e7t1mrw58-2vaxxifsn4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SAj28WRNyFlV6PX+qndiDxYdT/5TwcZesW2hTd7zS4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:22:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SAj28WRNyFlV6PX+qndiDxYdT/5TwcZesW2hTd7zS4I="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\faidto51kw-m18tvrbwim.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002150537634"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "464"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4A2wCd7ml780Gx1Rer0R8A6jR4WfNSlNkAwdxauMtX4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:12:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BrdJl4MnxSjU3HhyMMKmBi6zjYAWN5mjudRAt7iMDIg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BrdJl4MnxSjU3HhyMMKmBi6zjYAWN5mjudRAt7iMDIg="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BrdJl4MnxSjU3HhyMMKmBi6zjYAWN5mjudRAt7iMDIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:12:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BrdJl4MnxSjU3HhyMMKmBi6zjYAWN5mjudRAt7iMDIg="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\faidto51kw-m18tvrbwim.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4A2wCd7ml780Gx1Rer0R8A6jR4WfNSlNkAwdxauMtX4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:12:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4A2wCd7ml780Gx1Rer0R8A6jR4WfNSlNkAwdxauMtX4="
+        }
+      ]
+    },
+    {
+      "Route": "script.m18tvrbwim.js",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\faidto51kw-m18tvrbwim.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002150537634"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "464"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4A2wCd7ml780Gx1Rer0R8A6jR4WfNSlNkAwdxauMtX4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:12:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BrdJl4MnxSjU3HhyMMKmBi6zjYAWN5mjudRAt7iMDIg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m18tvrbwim"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BrdJl4MnxSjU3HhyMMKmBi6zjYAWN5mjudRAt7iMDIg="
+        }
+      ]
+    },
+    {
+      "Route": "script.m18tvrbwim.js",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BrdJl4MnxSjU3HhyMMKmBi6zjYAWN5mjudRAt7iMDIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:12:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m18tvrbwim"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BrdJl4MnxSjU3HhyMMKmBi6zjYAWN5mjudRAt7iMDIg="
+        }
+      ]
+    },
+    {
+      "Route": "script.m18tvrbwim.js.gz",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\faidto51kw-m18tvrbwim.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4A2wCd7ml780Gx1Rer0R8A6jR4WfNSlNkAwdxauMtX4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:12:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m18tvrbwim"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4A2wCd7ml780Gx1Rer0R8A6jR4WfNSlNkAwdxauMtX4="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\tk8vofdyfl-v19up7noof.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002309468822"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "432"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o0s6G6ZjQXSuqR1D0TkO3aeLgo7VrFRJVkJDlr0mKf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rdFKQIWJenKQkIAfR+NR8Tn/puT08I2kFvKLJEJao/k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rdFKQIWJenKQkIAfR+NR8Tn/puT08I2kFvKLJEJao/k="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rdFKQIWJenKQkIAfR+NR8Tn/puT08I2kFvKLJEJao/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rdFKQIWJenKQkIAfR+NR8Tn/puT08I2kFvKLJEJao/k="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\tk8vofdyfl-v19up7noof.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o0s6G6ZjQXSuqR1D0TkO3aeLgo7VrFRJVkJDlr0mKf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o0s6G6ZjQXSuqR1D0TkO3aeLgo7VrFRJVkJDlr0mKf0="
+        }
+      ]
+    },
+    {
+      "Route": "style.v19up7noof.css",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\tk8vofdyfl-v19up7noof.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002309468822"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "432"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o0s6G6ZjQXSuqR1D0TkO3aeLgo7VrFRJVkJDlr0mKf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rdFKQIWJenKQkIAfR+NR8Tn/puT08I2kFvKLJEJao/k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v19up7noof"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rdFKQIWJenKQkIAfR+NR8Tn/puT08I2kFvKLJEJao/k="
+        }
+      ]
+    },
+    {
+      "Route": "style.v19up7noof.css",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rdFKQIWJenKQkIAfR+NR8Tn/puT08I2kFvKLJEJao/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v19up7noof"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rdFKQIWJenKQkIAfR+NR8Tn/puT08I2kFvKLJEJao/k="
+        }
+      ]
+    },
+    {
+      "Route": "style.v19up7noof.css.gz",
+      "AssetFile": "C:\\Users\\Milos\\Desktop\\to do list\\todolist\\obj\\Debug\\net9.0\\compressed\\tk8vofdyfl-v19up7noof.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o0s6G6ZjQXSuqR1D0TkO3aeLgo7VrFRJVkJDlr0mKf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 14:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v19up7noof"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o0s6G6ZjQXSuqR1D0TkO3aeLgo7VrFRJVkJDlr0mKf0="
+        }
+      ]
+    }
+  ]
+}
